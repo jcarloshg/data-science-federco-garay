@@ -1,7 +1,11 @@
-
 # Data Science with Python - Course by Federico Garay
 
 This repository contains comprehensive learning materials for a complete Data Science course using Python. The course covers fundamental to advanced topics in data analysis, visualization, and machine learning.
+
+- 🐼 Pandas, 🔢 NumPy, 📊 Matplotlib, 📈 Seaborn, 🤖 Scikit-learn, 📓 Jupyter Notebooks
+- 🗃️ DataFrames, 📑 Series, 🧹 Data Cleaning, 🔗 Merging & Joining, 🕒 Time Series, 🧮 Array Operations
+- 📉 Linear Regression, 🔍 Logistic Regression, 🌳 Decision Trees, 🌲 Random Forests, 🧩 K-Means, 🌀 PCA, 🧠 Autoencoders
+- 📂 CSV Import/Export, 📄 XML Handling, 🗂️ Real-world Datasets, 📝 Hands-on Projects, 🏆 Integration Exercises
 
 ## 📚 Course Structure
 
